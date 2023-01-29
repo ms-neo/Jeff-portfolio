@@ -20,7 +20,7 @@ color:#fff;
 `
 const GridWrapper = styled.div `
 display:grid;
-grid-template-columns:20% 70%;
+grid-template-columns:22% 70%;
 margin-top:6vh;
 margin-left:-2vh;
 @media (max-width:880px){
